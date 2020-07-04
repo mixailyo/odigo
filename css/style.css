@@ -602,13 +602,13 @@ img {
     text-decoration: none;
     font-size: 16px;
     color: #006DFE;
-    background: url("odigo/img/svg/arrow-ico.svg") no-repeat 95% center;
+    background: url("../img/svg/arrow-ico.svg") no-repeat 95% center;
     transition: background .2s linear;
 }
 
 .link-with-arrow:hover,
 .link-with-arrow:active {
-    background: url("odigo/img/svg/arrow-ico.svg") no-repeat right center;
+    background: url("../img/svg/arrow-ico.svg") no-repeat right center;
 }
 
 /* Default end */
@@ -704,7 +704,7 @@ img {
 .intro {
     padding-top: 263px;
     min-height: 100vh;
-    background: url("odigo/img/intro-bg.jpg") no-repeat center;
+    background: url("../img/intro-bg.jpg") no-repeat center;
     background-size: cover;
     padding-bottom: 223px;
 }
@@ -731,7 +731,7 @@ img {
 
 .intro__form-field {
     width: 297px;
-    background: transparent url("odigo/img/svg/oval.svg") no-repeat left 6px;
+    background: transparent url("../img/svg/oval.svg") no-repeat left 6px;
     border: 0;
     border-bottom: 2px solid #BFC0C5;
     margin-right: 60px;
@@ -1013,14 +1013,14 @@ img {
 .top__card-likes {
     color: #fff;
     padding-right: 20px;
-    background: url("odigo/img/svg/like-ico.svg") no-repeat right center;
+    background: url("../img/svg/like-ico.svg") no-repeat right center;
     margin-right: 14px;
 }
 
 .top__card-comments {
     color: #fff;
     padding-right: 23px;
-    background: url("odigo/img/svg/coment-ico.svg") no-repeat right center;
+    background: url("../img/svg/coment-ico.svg") no-repeat right center;
 }
 
 .top__card-pic {
